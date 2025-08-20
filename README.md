@@ -9,7 +9,7 @@
 🔭 Currently working on **Excel Analytics Web App (MERN Stack)**  
 🌱 Exploring: **Cloud, System Design, DSA**  
 💡 Practicing **Problem Solving on HackerRank & LeetCode**  
-📫 Reach me at: pandeyajeet7207@gmail.com 
+📫 Reach me at: **pandeyajeet7207@gmail.com**
 ⚡ Fun fact: I debug faster when I have chai ☕  
 
 ---
