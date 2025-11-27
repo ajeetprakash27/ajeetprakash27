@@ -35,13 +35,6 @@ B.Tech CSE | MERN Stack Developer | Problem Solver | DSA Enthusiast
 
 ---
 
-## 🔥 **GitHub Streak**
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ajeetprakash27&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ajeetprakash27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
