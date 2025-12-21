@@ -37,7 +37,9 @@ B.Tech CSE | MERN Stack Developer | Problem Solver | DSA Enthusiast
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ajeetprakash27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ajeetprakash27&theme=radical&row=2&column=4&no-bg=true)
+
+
 
 
 ### ✍️ Random Dev Quote
