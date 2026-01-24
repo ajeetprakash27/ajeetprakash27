@@ -12,7 +12,7 @@
 
 B.Tech CSE | MERN Stack Developer | Problem Solver | DSA Enthusiast
 
--🔭 Currently working on **Multi-Service-Observability-Dashboard**  <br>- 🌱 Practicing **Data Structures & Algorithms** and solving problems on **HackerRank**  <br>- 💡 Exploring **System Design, Cloud, and Scalable Web Applications**  <br>- 📫 Reach me at: **imajeetpandey27@gmail.com**  <br>- ⚡ Fun fact: I enjoy turning real-world problems into simple, reliable code solutions
+-🔭 Currently working on **CAKE_SHOP PROJECT**  <br>- 🌱 Practicing **Data Structures & Algorithms** and solving problems on **HackerRank**  <br>- 💡 Exploring **System Design, Cloud, and Scalable Web Applications**  <br>- 📫 Reach me at: **imajeetpandey27@gmail.com**  <br>- ⚡ Fun fact: I enjoy turning real-world problems into simple, reliable code solutions
 
 
 ## 🌐 Socials:
