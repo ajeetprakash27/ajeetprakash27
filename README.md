@@ -15,10 +15,6 @@ B.Tech CSE | MERN Stack Developer | Problem Solver | DSA Enthusiast
 -🔭 Currently working on **Sweet_Order_Hub Project**  <br>- 🌱 Practicing **Data Structures & Algorithms** and solving problems on **HackerRank**  <br>- 💡 Exploring **System Design, Cloud, and Scalable Web Applications**  <br>- 📫 Reach me at: **imajeetpandey27@gmail.com**  <br>- ⚡ Fun fact: I enjoy turning real-world problems into simple, reliable code solutions
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeet-prakash-pandey-061907259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLadfcDKfRfyhgXGRJC1Mxg%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imajeetpandey27@gmail.com) 
-
-
 <h2 align="center">🚀 Tech Stack</h2>
 
 <div align="center">
