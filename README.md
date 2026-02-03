@@ -88,8 +88,9 @@ B.Tech CSE | MERN Stack Developer | Problem Solver | DSA Enthusiast
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ajeetprakash27&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Repositories
+
+![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=ajeetprakash27&repo=Graph_rag_project&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ajeetprakash27&icon=0&color=0)](https://visitcount.itsvg.in)
