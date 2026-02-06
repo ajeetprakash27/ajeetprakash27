@@ -55,12 +55,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ajeetprakash27&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetprakash27&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajeetprakash27&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=ajeetprakash27&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetprakash27&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ajeetprakash27&theme=tokyonight" />
 </p>
 
 ---
@@ -77,8 +80,9 @@
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajeetprakash27&theme=radical&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ajeetprakash27&theme=radical&no-frame=true&row=1&column=6" />
 </p>
+
 
 ---
 
