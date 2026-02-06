@@ -55,15 +55,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajeetprakash27&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajeetprakash27&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetprakash27&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetprakash27&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajeetprakash27&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ajeetprakash27&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -71,8 +71,8 @@
 ## 🏆 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajeetprakash27&repo=Graph_rag_project&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajeetprakash27&repo=Sweet_Order_Hub&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajeetprakash27&repo=Graph_rag_project&theme=tokyonight&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajeetprakash27&repo=Ajeet_MyPort&theme=tokyonight&v=1" />
 </p>
 
 ---
@@ -80,9 +80,8 @@
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajeetprakash27&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ajeetprakash27&theme=radical&no-frame=true&margin-w=10" />
 </p>
-
 
 ---
 
@@ -90,10 +89,4 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <b>⭐ If you like my work, consider following me and checking out my repositories!</b>
 </p>
