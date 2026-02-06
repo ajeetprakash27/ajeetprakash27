@@ -55,12 +55,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ajeetprakash27&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ajeetprakash27&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetprakash27&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=ajeetprakash27&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ajeetprakash27&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -76,13 +76,17 @@
 
 ## 🏅 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ajeetprakash27&theme=radical&no-bg=true&row=1&column=6)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajeetprakash27&theme=radical&no-bg=true&row=1&column=6" />
+</p>
 
 ---
 
 ## ✍️ Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
